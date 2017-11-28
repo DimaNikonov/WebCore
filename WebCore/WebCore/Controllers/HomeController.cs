@@ -17,7 +17,8 @@ namespace WebCore.Controllers
         }
         public IActionResult Index()
         {
-            return View(context.LogInfo.ToList());
+            var table = context.logInfoes.ToList();
+            return View(table);
         }
         
     }

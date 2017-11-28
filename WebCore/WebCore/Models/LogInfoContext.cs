@@ -8,7 +8,7 @@ namespace WebCore.Models
 {
     public class LogInfoContext:DbContext
     {
-        public DbSet<LogInfoModel> LogInfo { get; set; }
+        public DbSet<LogInfo> logInfoes  { get; set; }
         public LogInfoContext(DbContextOptions<LogInfoContext> options)
             :base(options)
         {

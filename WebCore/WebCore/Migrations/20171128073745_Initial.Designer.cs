@@ -11,9 +11,10 @@ using WebCore.Models;
 namespace WebCore.Migrations
 {
     [DbContext(typeof(LogInfoContext))]
-    partial class LogInfoContextModelSnapshot : ModelSnapshot
+    [Migration("20171128073745_Initial")]
+    partial class Initial
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
