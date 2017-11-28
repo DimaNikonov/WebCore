@@ -1,0 +1,11 @@
+C:\Users\nikonov\source\repos\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.deps.json
+C:\Users\nikonov\source\repos\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.runtimeconfig.json
+C:\Users\nikonov\source\repos\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.runtimeconfig.dev.json
+C:\Users\nikonov\source\repos\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.dll
+C:\Users\nikonov\source\repos\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.pdb
+C:\Users\nikonov\source\repos\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.csprojResolveAssemblyReference.cache
+C:\Users\nikonov\source\repos\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.csproj.CoreCompileInputs.cache
+C:\Users\nikonov\source\repos\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfoInputs.cache
+C:\Users\nikonov\source\repos\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfo.cs
+C:\Users\nikonov\source\repos\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.dll
+C:\Users\nikonov\source\repos\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.pdb
